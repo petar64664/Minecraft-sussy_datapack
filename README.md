@@ -1,1 +1,1 @@
-# Minecraft-sussy_datapack
+# The official versi0n of the sussy_datapack
