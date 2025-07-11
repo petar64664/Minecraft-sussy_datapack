@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+
+    }
+  ],
+  "results": [
+    {
+
+      "item": "some_assembly_required:apple_slices",
+      "count": 2
+    }
+  ]
+}

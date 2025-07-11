@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "tag": "minecraft:soul_tag"
+    }
+  ],
+  "result": {
+    "item": "minecraft:nether_gold_ore"
+  }
+}
