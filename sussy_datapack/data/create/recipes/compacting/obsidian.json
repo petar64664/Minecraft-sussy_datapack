@@ -1,0 +1,21 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "lowheated",
+  "ingredients": [
+    {
+        "amount": 1000,
+        "fluid": "minecraft:water",
+        "nbt": {}
+    },
+    {
+      "amount": 1000,
+      "fluid": "minecraft:lava",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:obsidian"
+    }
+  ]
+}
